@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/savage-romance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Savage Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/savage-romance/) |
+| **Get License** | [Official Music Licensing for Savage Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/savage-romance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan ch nasha tera bura haal karda
+> Tenu vekh vekh ke hi mera dil dhadkada
+> Girl you are the only one that I really want
+> I will show you off because you are mine to flaunt
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
