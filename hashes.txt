@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Savage Romance
+
+This log tracks the cryptographic history and versioning for the song **Savage Romance** (savage-romance).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-18T14:57:49.967359 | `v1` | `545f5666dfcaa8577d0e4eda67215ba65deabf7a42532ad174251573baa2939b` | `f0f3a3bcc5ddb1bfb355de2799618ccb048f29563920a474a58ae869b002c017` | `2026-05-18_savage-romance-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
